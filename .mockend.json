@@ -15,5 +15,11 @@
     "name": "string",
     "username": "string",
     "email": "string"
+  },
+  "Employee": {
+    "id": "int",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string"
   }
 }
