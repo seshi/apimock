@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "employees": [
+    {"id": 1, "firstName": "Steven", "lastName": "King", "email": "sking@gmail.com"},
+    {"id": 2, "firstName": "Bruce", "lastName": "Williams", "email": "bruce@gmail.com"},
+    {"id": 2, "firstName": "Neena", "lastName": "Kochar", "email": "neenak@gmail.com"}
+  ]
+}
